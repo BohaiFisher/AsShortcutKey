@@ -1,14 +1,20 @@
   
-  ----------------------------AndroidStudio for Java------------------------------  
-  
-  1、psvm + enter        ---------       public static void main(String[] args)
-  2、sout + enter        ---------       System.out.println()  
-  
-  
-  
-  
-  
-  --------------------------------------------------------------------------------
-  
+----------------------------AndroidStudio for Java------------------------------  
+
+1、psvm + enter        ---------       public static void main(String[] args)
+2、sout + enter        ---------       System.out.println()  
+
+
+
+----------------------------AndroidStudio for Android---------------------------
+1、Android studio 有时找不到R文件、导入的资源、布局、jar包等.可能是studio 缓存造成的.
+这是可以使用
+1) clean project  清理项目  
+2) invalidate caches restart    清理Android studio缓存
+
+
+
+---------------------------------------------------------------------------------
+
   
   
